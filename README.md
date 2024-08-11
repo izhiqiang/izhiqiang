@@ -6,15 +6,15 @@ I enjoy the collaborative process. I like solving challenging problems and writi
 work and study, I also enjoy sharing technical insights through blogs and GitHub. I'm striving to become an excellent
 full-stack developer. If you're also interested in open source, feel free to contact me to discuss and learn together!
 
-💬 You can contact me on [WeChat](https://cdn.jsdelivr.net/gh/zzqqw/zzqqw/cdn/wechat.svg)
+💬 You can contact me on [WeChat](https://cdn.jsdelivr.net/gh/izhiqiang/izhiqiang/cdn/wechat.svg)
 ,  [Twitter](https://twitter.com/chihqiang) or [Email](mailto:zhiqiang2033@gmail.com).
 
-<a href="https://github.com/zzqqw"><img src="https://komarev.com/ghpvc/?username=zzqqw" alt="zzqqw" /></a>
-<a href="https://github.com/zzqqw/zzqqw"><img src="https://img.shields.io/github/last-commit/zzqqw/zzqqw" alt="last-commit" /></a>
+<a href="https://github.com/izhiqiang"><img src="https://komarev.com/ghpvc/?username=izhiqiang" alt="izhiqiang" /></a>
+<a href="https://github.com/izhiqiang/izhiqiang"><img src="https://img.shields.io/github/last-commit/izhiqiang/izhiqiang" alt="last-commit" /></a>
 
 <a href="https://www.zhiqiang.wang"><img src="https://img.shields.io/badge/Blog-www.zhiqiang.wang-blue" alt="Blog" /></a>
 <a href="mailto:zhiqiang2033@gmail.com"><img src="https://img.shields.io/badge/Email-zhiqiang2033@gmail.com-blue" alt="Email" /></a>
-<a href="https://cdn.jsdelivr.net/gh/zzqqw/zzqqw/cdn/wechat.svg" title="Click to view WeChat"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-zzqqwwang-07C160?logo=WeChat" alt="zzqqw" /></a>
-<a href="https://twitter.com/intent/follow?screen_name=chihqiang"><img src="https://img.shields.io/twitter/follow/lufeidot.svg?style=social&label=Follow%20@zzqqw" alt="Follow on Twitter"></a>
+<a href="https://cdn.jsdelivr.net/gh/izhiqiang/izhiqiang/cdn/wechat.svg" title="Click to view WeChat"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-zzqqwwang-07C160?logo=WeChat" alt="izhiqiang" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=chihqiang"><img src="https://img.shields.io/twitter/follow/lufeidot.svg?style=social&label=Follow%20@izhiqiang" alt="Follow on Twitter"></a>
 
-[![GitHub Snake Light](https://cdn.jsdelivr.net/gh/zzqqw/zzqqw/cdn/github-contribution-grid-snake.svg)](https://github.com/zzqqw)
+[![GitHub Snake Light](https://cdn.jsdelivr.net/gh/izhiqiang/izhiqiang/cdn/github-contribution-grid-snake.svg)](https://github.com/izhiqiang)
