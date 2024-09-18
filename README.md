@@ -14,7 +14,7 @@ full-stack developer. If you're also interested in open source, feel free to con
 
 <a href="https://www.zhiqiang.wang"><img src="https://img.shields.io/badge/Blog-www.zhiqiang.wang-blue" alt="Blog" /></a>
 <a href="mailto:zhiqiang2033@gmail.com"><img src="https://img.shields.io/badge/Email-zhiqiang2033@gmail.com-blue" alt="Email" /></a>
-<a href="https://cdn.jsdelivr.net/gh/izhiqiang/izhiqiang/cdn/wechat.svg" title="Click to view WeChat"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-zzqqwwang-07C160?logo=WeChat" alt="izhiqiang" /></a>
+<a href="https://cdn.jsdelivr.net/gh/izhiqiang/izhiqiang/cdn/wechat.svg" title="Click to view WeChat"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-chihqiang-07C160?logo=WeChat" alt="izhiqiang" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=chihqiang"><img src="https://img.shields.io/twitter/follow/lufeidot.svg?style=social&label=Follow%20@chihqiang" alt="Follow on Twitter"></a>
 
 [![GitHub Snake Light](https://cdn.jsdelivr.net/gh/izhiqiang/izhiqiang/cdn/github-contribution-grid-snake.svg)](https://github.com/izhiqiang)
